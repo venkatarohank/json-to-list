@@ -1,0 +1,39 @@
+[
+  {
+    "name" : "person1",
+    "place" : "place2",
+    "email" : "p1@gamil.com",
+    "address": [
+      {
+      "street": "stree1",
+      "pin_code": 500001,
+        "addressType": "home",
+        "country": "india"
+    },{
+        "street": "stree4",
+        "pin_code": 500001,
+        "addressType": "office",
+        "country": "india"
+      }
+    ]
+  },
+  {
+    "name" : "person2",
+    "place" : "place3",
+    "email" : "p1qw@gamil.com",
+    "address": [
+      {
+        "street": "stree1",
+        "pin_code": 500001,
+        "addressType": "home",
+        "country": "india"
+      },{
+        "street": "stree4",
+        "pin_code": 500001,
+        "addressType": "office",
+        "country": "india"
+      }
+    ]
+  }
+
+]
